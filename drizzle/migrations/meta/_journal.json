@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791980679761,
+      "tag": "0000_restaurant_menu_orders",
+      "breakpoints": true
+    }
+  ]
 }
